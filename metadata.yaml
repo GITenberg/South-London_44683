@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44683#South-London
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2014-01-16'
 gutenberg_type: Text
